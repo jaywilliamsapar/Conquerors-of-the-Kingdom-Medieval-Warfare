@@ -18,12 +18,12 @@
   --container-color: linear-gradient(136deg, hsl(104, 28%, 35%) 0%, hsl(58, 28%, 35%) 100%); */
   
   /*Red gradient*/
-  --body-color: linear-gradient(90deg, rgb(46, 104, 121) 0%, hsl(183, 48%, 43%) 100%);
-  --container-color: linear-gradient(136deg, rgb(52, 116, 114) 0%, hsl(129, 48%, 43%) 100%);
+  --body-color: linear-gradient(90deg, rgb(80, 52, 96) 0%, hsl(182, 53%, 44%) 100%);
+  --container-color: linear-gradient(136deg, rgb(94, 46, 121) 0%, hsl(182, 53%, 44%) 100%);
 
   /*Black solid*/
-  /* --body-color: hsl(30, 8%, 8%);
-  --container-color: hsl(30, 8%, 10%); */
+  /* --body-color: hsl(30, 3%, 15%);
+  --container-color: hsl(38, 6%, 38%); */
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
