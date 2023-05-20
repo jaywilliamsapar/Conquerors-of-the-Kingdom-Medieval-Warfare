@@ -1,6 +1,8 @@
-# Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🎃
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
-### Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🎃
+# Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🔔
+
+<!-- ## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg) -->
+
+### Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🔔
 
 - Responsive Conqueror's of Kingdoms - Medieval Warfare Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
@@ -11,6 +13,6 @@
 
 Join the channel to see more videos like this. Special Thank to --> [Bedimcode]
 
-![Conqueror's of Kingdoms - Medieval Warfare](/preview.png)
+<!-- ![Conqueror's of Kingdoms - Medieval Warfare](/preview.png) -->
 
-![Conqueror's of Kingdoms - Medieval Warfare](/preview.png)
+<!-- ![Conqueror's of Kingdoms - Medieval Warfare](/preview.png) -->
