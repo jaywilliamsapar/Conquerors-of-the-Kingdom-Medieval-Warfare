@@ -19,7 +19,7 @@
   
   /*Red gradient*/
   --body-color: linear-gradient(90deg, rgb(46, 104, 121) 0%, hsl(183, 48%, 43%) 100%);
-  --container-color: linear-gradient(136deg, rgb(41, 41, 39) 0%, hsl(183, 48%, 43%) 100%);
+  --container-color: linear-gradient(136deg, rgb(52, 116, 114) 0%, hsl(129, 48%, 43%) 100%);
 
   /*Black solid*/
   /* --body-color: hsl(30, 8%, 8%);
