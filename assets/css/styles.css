@@ -14,12 +14,12 @@
   --text-color-light: hsl(var(--hue), 4%, 55%);
 
   /*Green gradient*/
-  --body-color: linear-gradient(90deg, hsl(104, 28%, 40%) 0%, hsl(58, 28%, 40%) 100%);
-  --container-color: linear-gradient(136deg, hsl(104, 28%, 35%) 0%, hsl(58, 28%, 35%) 100%);
+  /* --body-color: linear-gradient(90deg, hsl(240, 7%, 31%) 0%, hsl(38, 52%, 38%) 100%);
+  --container-color: linear-gradient(136deg, hsl(104, 28%, 35%) 0%, hsl(58, 28%, 35%) 100%); */
   
   /*Red gradient*/
-  /* --body-color: linear-gradient(90deg, hsl(360, 28%, 40%) 0%, hsl(18, 28%, 40%) 100%);
-  --container-color: linear-gradient(136deg, hsl(360, 28%, 35%) 0%, hsl(18, 28%, 35%) 100%); */
+  --body-color: linear-gradient(90deg, rgb(46, 104, 121) 0%, hsl(183, 48%, 43%) 100%);
+  --container-color: linear-gradient(136deg, rgb(41, 41, 39) 0%, hsl(183, 48%, 43%) 100%);
 
   /*Black solid*/
   /* --body-color: hsl(30, 8%, 8%);
