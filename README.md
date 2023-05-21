@@ -13,6 +13,6 @@
 
 Join the channel to see more videos like this. Special Thank to --> [Bedimcode]
 
-<!-- ![Conqueror's of Kingdoms - Medieval Warfare](/preview.png) -->
+![Conqueror's of Kingdoms - Medieval Warfare](/preview.png) 
 
-<!-- ![Conqueror's of Kingdoms - Medieval Warfare](/preview.png) -->
+![Conqueror's of Kingdoms - Medieval Warfare](/preview.png)
