@@ -1,9 +1,9 @@
-# Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🔔 
+# Conqueror's of Kingdoms - Medieval Warfare Website ⚔🛡🗡🏹
 
 <!-- ## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg) -->
 
-### Responsive Conqueror's of Kingdoms - Medieval Warfare Website 🔔
-#### View Demo :  https://kingdom-mediaval-warefare.netlify.app/ 🔥 
+### Conqueror's of Kingdoms - Medieval Warfare Website ⚔🛡🗡🏹
+### View Demo :  https://kingdom-mediaval-warefare.netlify.app/ 🔥 
 
 - Responsive Conqueror's of Kingdoms - Medieval Warfare Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
